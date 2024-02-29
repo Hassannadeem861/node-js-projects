@@ -1,0 +1,50 @@
+
+
+   4th DataBase (HostStockMaster)
+
+   5th 43 Tables (Hassan Nadeem)
+
+
+1)   tbl_ibt_category ++++++++++++++++ DONE
+2)   tbl_ibt_category_sub1 ++++++++++++++++ DONE
+3)   tbl_ibt_category_sub1_update ++++++++++++++++ DONE
+4)   tbl_ibt_category_sub2 ++++++++++++++++ DONE
+5)   tbl_ibt_category_sub2_update ++++++++++++++++ DONE
+6)   tbl_ibt_category_update ++++++++++++++++ DONE
+7)   tbl_ibt_comboitems ++++++++++++++++ DONE
+8)   tbl_ibt_comboitems_update  ++++++++++++++++ DONE
+9)   tbl_ibt_counter ++++++++++++++++ DONE
+10)  tbl_ibt_grn ++++++++++++++++ DONE
+11)  tbl_ibt_grn_det ++++++++++++++++ DONE
+12)  tbl_ibt_locations ++++++++++++++++ DONE
+13)  tbl_ibt_products   ++++++++++++++++ DONE
+14)  tbl_ibt_products_update ++++++++++++++++ DONE
+15)  tbl_ibt_product_details ++++++++++++++++ DONE
+16)  tbl_ibt_product_details_update ++++++++++++++++ DONE
+17)  tbl_ibt_qtyprices ++++++++++++++++ DONE
+18)  tbl_ibt_qtyprices_update ++++++++++++++++ DONE
+19)  tbl_ibt_status  ++++++++++++++++ DONE
+20)  tbl_ibt_transactions ++++++++++++++++ DONE
+21)  tbl_ibt_users ++++++++++++++++ DONE
+22)  tbl_ibt_users_access   ++++++++++++++++ DONE 
+23)  tmpauditgrv1 ++++++++++++++++ DONE variable name change
+24)  tmpauditgrvprint1 ++++++++++++++++ DONE variable name change
+25)  tmpauditorder ++++++++++++++++ DONE 
+26)  tmpauditorderprint ++++++++++++++++ DONE 
+27)  tmpauditsales1 ++++++++++++++++ DONE variable name change
+28)  tmpbarcode1 ++++++++++++++++ DONE variable name change
+29)  tmpdailyinv
+30)  tmpdata_salesrep
+31)  tmpdata_salesrep_tran
+32)  tmpdeliverydetails
+33)  tmpibt
+34)  tmpmainpcstocktake
+35)  tmpmainstocktake
+36)  tmpmovement
+37)  tmppayout
+38)  tmpprodperf
+39)  tmpproductperformance
+40)  tmprefunds
+41)  tmpsalesrep
+42)  tmpsums
+43)  tmptransport

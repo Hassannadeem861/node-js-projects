@@ -1,0 +1,24 @@
+                                                              TABLES
+
+1)Tbltmpdailysales ++++++++++++ DONE
+2)tbltmpdebtransactions ++++++++++++ DONE
+3)tbltmpinvoices ++++++++++++ DONE                               
+4)tbltmppayout  ++++++++++++ DONE  
+5)tbltmpprodperform  ++++++++++++ DONE  
+6)tbltmpprodperform1  ++++++++++++ DONE 
+7)tbltmpstockmove  ++++++++++++ DONE 
+8)tbltmpstocktake  ++++++++++++ DONE 
+9)tbltransactionv  ++++++++++++ DONE 
+10)tbl_tmp_voucher  ++++++++++++ DONE 
+11)tmpairtimesale   ++++++++++++ DONE 
+12)tmpauditgrv      ++++++++++++ DONE 
+13)tmpauditgrvo      ++++++++++++ DONE 
+14)tmpauditgrvprint      ++++++++++++ DONE 
+15)tmpauditorderprint      ++++++++++++ DONE 
+16)tmpauditsales      ++++++++++++ DONE 
+17)tmpavgsale      ++++++++++++ DONE 
+18)tmpcashbank_tran      ++++++++++++ DONE 
+19)tmpchartofaccounts_tran      ++++++++++++ DONE 
+20)tmpcombineditems      ++++++++++++ DONE 
+21)tmpdata_current_tran      ++++++++++++ DONE 
+22)tmpdata_salesrep      ++++++++++++ DONE 
