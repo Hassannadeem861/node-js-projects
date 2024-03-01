@@ -5,7 +5,7 @@ const TmpDailyInv = sequelize4.define('tmpdailyinv', {
     Date: {
         type: DataTypes.DATE,
         allowNull: false,
-        defaultValue: '0000-00-00 00:00:00',
+        // defaultValue: '0000-00-00 00:00:00',
     },
     SaleNum: {
         type: DataTypes.DOUBLE,

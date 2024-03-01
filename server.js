@@ -243,6 +243,9 @@ const Tmpauditorderprint1 = require('./app/models/Database_hoststockmaster_model
 const Tmpauditsales1 = require('./app/models/Database_hoststockmaster_model/tmpauditsales.model');
 const Tmpbarcode1 = require('./app/models/Database_hoststockmaster_model/tmpbarcode.model');
 const Tmpdailyinv1 = require('./app/models/Database_hoststockmaster_model/tmpdailyinv.model');
+const Tmpdata_salesrep1 = require('./app/models/Database_hoststockmaster_model/tmpdata_salesrep.model');
+const Tmpdata_salesrep_tran1 = require('./app/models/Database_hoststockmaster_model/tmpdata_salesrep_tran.model');
+const Tmpdeliverydetails1 = require('./app/models/Database_hoststockmaster_model/tmpdeliverydetails.model');
 
 ///database Host-Stock-Master end
 
@@ -505,6 +508,9 @@ const sequelizeConfigurations = [
       Tmpauditsales1,
       Tmpbarcode1,
       Tmpdailyinv1,
+      Tmpdata_salesrep1,
+      Tmpdata_salesrep_tran1,
+      Tmpdeliverydetails1,
     ]
   }
 ];
@@ -866,6 +872,10 @@ require("./app/routes/Database_hoststockmaster_routes/tmpauditorderprint.routes"
 require("./app/routes/Database_hoststockmaster_routes/tmpauditsales.routes")(app);
 require("./app/routes/Database_hoststockmaster_routes/tmpbarcode.routes")(app);
 require("./app/routes/Database_hoststockmaster_routes/tmpdailyinv.routes")(app);
+require("./app/routes/Database_hoststockmaster_routes/tmpdailyinv.routes")(app);
+require("./app/routes/Database_hoststockmaster_routes/tmpdata_salesrep.routes")(app);
+require("./app/routes/Database_hoststockmaster_routes/tmpdata_salesrep_tran.routes")(app);
+require("./app/routes/Database_hoststockmaster_routes/tmpdeliverydetails.routes")(app);
 
 /// database Host-Stock-Master end routes
 

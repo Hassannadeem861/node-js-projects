@@ -5,8 +5,8 @@ const Tmpdailyinv = require("../../models/Database_hoststockmaster_model/tmpdail
 // Create and Save a new Tmpdailyinv
 exports.create = (req, res) => {
     // Validate request
-    if (!req.body.StockCode) {
-        res.status(400).send({ message: "StockCode can not be empty!" });
+    if (!req.body.SaleNum) {
+        res.status(400).send({ message: "SaleNum can not be empty!" });
         return;
     }
 
