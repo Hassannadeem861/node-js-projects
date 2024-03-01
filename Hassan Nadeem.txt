@@ -37,7 +37,7 @@
 30)  tmpdata_salesrep  ++++++++++++++++ DONE variable name change
 31)  tmpdata_salesrep_tran ++++++++++++++++ DONE variable name change
 32)  tmpdeliverydetails  ++++++++++++++++ DONE variable name change
-33)  tmpibt
+33)  tmpibt ++++++++++++++++ DONE variable name change
 34)  tmpmainpcstocktake
 35)  tmpmainstocktake
 36)  tmpmovement

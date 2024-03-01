@@ -246,6 +246,7 @@ const Tmpdailyinv1 = require('./app/models/Database_hoststockmaster_model/tmpdai
 const Tmpdata_salesrep1 = require('./app/models/Database_hoststockmaster_model/tmpdata_salesrep.model');
 const Tmpdata_salesrep_tran1 = require('./app/models/Database_hoststockmaster_model/tmpdata_salesrep_tran.model');
 const Tmpdeliverydetails1 = require('./app/models/Database_hoststockmaster_model/tmpdeliverydetails.model');
+const Tmpibt1 = require('./app/models/Database_hoststockmaster_model/tmpibt.model');
 
 ///database Host-Stock-Master end
 
@@ -511,6 +512,7 @@ const sequelizeConfigurations = [
       Tmpdata_salesrep1,
       Tmpdata_salesrep_tran1,
       Tmpdeliverydetails1,
+      Tmpibt1,
     ]
   }
 ];
@@ -876,6 +878,7 @@ require("./app/routes/Database_hoststockmaster_routes/tmpdailyinv.routes")(app);
 require("./app/routes/Database_hoststockmaster_routes/tmpdata_salesrep.routes")(app);
 require("./app/routes/Database_hoststockmaster_routes/tmpdata_salesrep_tran.routes")(app);
 require("./app/routes/Database_hoststockmaster_routes/tmpdeliverydetails.routes")(app);
+require("./app/routes/Database_hoststockmaster_routes/tmpibt.routes")(app);
 
 /// database Host-Stock-Master end routes
 
