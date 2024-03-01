@@ -31,12 +31,12 @@
 24)  tmpauditgrvprint1 ++++++++++++++++ DONE variable name change
 25)  tmpauditorder ++++++++++++++++ DONE 
 26)  tmpauditorderprint ++++++++++++++++ DONE 
-27)  tmpauditsales1 ++++++++++++++++ DONE variable name change
-28)  tmpbarcode1 ++++++++++++++++ DONE variable name change
-29)  tmpdailyinv  ++++++++++++++++ DONE variable name change
-30)  tmpdata_salesrep  ++++++++++++++++ DONE variable name change
-31)  tmpdata_salesrep_tran ++++++++++++++++ DONE variable name change
-32)  tmpdeliverydetails  ++++++++++++++++ DONE variable name change
+27)  tmpauditsales1 ++++++++++++++++ DONE variable name change with colection
+28)  tmpbarcode1 ++++++++++++++++ DONE variable name change with colection
+29)  tmpdailyinv  ++++++++++++++++ DONE variable name change with colection
+30)  tmpdata_salesrep  ++++++++++++++++ DONE variable name change with colection
+31)  tmpdata_salesrep_tran ++++++++++++++++ DONE variable name change with colection
+32)  tmpdeliverydetails  ++++++++++++++++ DONE variable name change with colection
 33)  tmpibt ++++++++++++++++ DONE variable name change with colection
 34)  tmpmainpcstocktake DONE variable name change with colection
 35)  tmpmainstocktake DONE variable name change with colection
