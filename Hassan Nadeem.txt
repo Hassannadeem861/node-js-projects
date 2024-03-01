@@ -37,14 +37,14 @@
 30)  tmpdata_salesrep  ++++++++++++++++ DONE variable name change
 31)  tmpdata_salesrep_tran ++++++++++++++++ DONE variable name change
 32)  tmpdeliverydetails  ++++++++++++++++ DONE variable name change
-33)  tmpibt ++++++++++++++++ DONE variable name change
-34)  tmpmainpcstocktake
-35)  tmpmainstocktake
-36)  tmpmovement
-37)  tmppayout
-38)  tmpprodperf
-39)  tmpproductperformance
-40)  tmprefunds
-41)  tmpsalesrep
-42)  tmpsums
-43)  tmptransport
+33)  tmpibt ++++++++++++++++ DONE variable name change with colection
+34)  tmpmainpcstocktake DONE variable name change with colection
+35)  tmpmainstocktake DONE variable name change with colection
+36)  tmpmovement DONE variable name change with colection
+37)  tmppayout   DONE variable name change with colection
+38)  tmpprodperf DONE variable name change with colection
+39)  tmpproductperformance DONE variable name change with colection
+40)  tmprefunds DONE variable name change with colection
+41)  tmpsalesrep DONE variable name change with colection
+42)  tmpsums  DONE variable name change with colection
+43)  tmptransport DONE variable name change with colection
